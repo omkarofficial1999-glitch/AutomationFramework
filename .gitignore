@@ -1,0 +1,14 @@
+ 
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+
+# Test results
+TestResults/
+Reports/
+
+# NuGet packages
+packages/
+*.nupkg
